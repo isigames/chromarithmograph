@@ -5,7 +5,7 @@ Start by downloading python 3 from the <a href="https://www.python.org/">officia
 python3 -m pip install --upgrade pip
 pip install Pillow
 
-Next, download the chromarithmography python script from the github repository <a href="https://github.com/isigames/chromarithmograph">here</a>. You now have everything installed to start using the program! All you need to know now are some settings.
+Next, download the chromarithmography source code as a .zip file from <a href="https://github.com/isigames/chromarithmograph">here</a>. You now have everything installed to start using the program! All you need to know now are some settings.
 Open up the program in your text editor of preference, I'll be using <a href="https://code.visualstudio.com/">Visual Studio Code</a>.
 
 ![chroma-screen](https://github.com/user-attachments/assets/cf8c3420-e027-4b78-9c8f-735bac49d4e2)
