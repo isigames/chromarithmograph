@@ -1,4 +1,4 @@
-#Chromarithmography Tutorial
+# Chromarithmography Tutorial
 
 Start by downloading python 3 from the <a href="https://www.python.org/">official website</a>, after downloading and installing it, you will need to install the Pillow library. Open up the command prompt and type in these commands:
 
