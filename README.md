@@ -22,9 +22,9 @@ Decimals are not accepted for obvious reasons.
 I recommend using ASCII to encode messages for palettes that have 12 or more colors. The minimum palette size for encoding the alphabet is 6, for which you should use the A0Z25 or A1Z26 cipher.
 This should be everything you need to know to start using the program, have fun!
 
-<img width="132" height="132" alt="matthew 5" src="https://github.com/user-attachments/assets/75b925c7-0470-4cd6-a301-c85bda654e8e" />
-<img width="107" height="107" alt="redundancy angel" src="https://github.com/user-attachments/assets/2ee4cd7f-ec29-442a-a72d-74224a286d85" />
-<img width="601" height="892" alt="Steganographia-PROJECT-GUTENBERG" src="https://github.com/user-attachments/assets/e9b0198e-8e53-467a-8211-6a3ab880e591" />
-<img width="287" height="294" alt="psalm" src="https://github.com/user-attachments/assets/d89c6009-cc2c-4e3c-b5d2-70c67aa33541" />
-<img width="259" height="259" alt="256-rand" src="https://github.com/user-attachments/assets/7e87292c-3c53-495e-a34a-88c1250174e4" />
-<img width="640" height="480" alt="stained glass window" src="https://github.com/user-attachments/assets/b9733126-be33-44ff-ba04-09f5bc5aa422" />
+<img width="528" height="auto" alt="matthew 5" src="https://github.com/user-attachments/assets/75b925c7-0470-4cd6-a301-c85bda654e8e" />
+<img width="428" height="auto" alt="redundancy angel" src="https://github.com/user-attachments/assets/2ee4cd7f-ec29-442a-a72d-74224a286d85" />
+<img width="601" height="auto" alt="Steganographia-PROJECT-GUTENBERG" src="https://github.com/user-attachments/assets/e9b0198e-8e53-467a-8211-6a3ab880e591" />
+<img width="574" height="auto" alt="psalm" src="https://github.com/user-attachments/assets/d89c6009-cc2c-4e3c-b5d2-70c67aa33541" />
+<img width="518" height="auto" alt="256-rand" src="https://github.com/user-attachments/assets/7e87292c-3c53-495e-a34a-88c1250174e4" />
+<img width="1280" height="auto" alt="stained glass window" src="https://github.com/user-attachments/assets/b9733126-be33-44ff-ba04-09f5bc5aa422" />
